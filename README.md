@@ -1,7 +1,7 @@
 # Elxsi - Python Package
-Elxsi is a python package for performing advanced mathematical operations, distributions and visualizations and is licensed under the GNU General Public License v3.0. It includes modules for calculating mean, standard deviation and probability distribution function of various statistical distributions. The latest released version of elxsi is 1.0.3. Learn more about elxsi [here](https://pypi.org/project/elxsi/)
+Elxsi is a python package for performing advanced mathematical operations, distributions and visualizations and is licensed under the GNU General Public License v3.0. It includes modules for calculating mean, standard deviation and probability distribution function of various statistical distributions. The latest released version of elxsi is 1.0.3.
 
-The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers.
+The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers. Learn more about elxsi [here](https://pypi.org/project/elxsi/)
 
 # Subdirectories and Constraints
 ### Dependencies
@@ -15,7 +15,7 @@ The files and folders used in the package are as follows:
 - [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): This folder contains the source code for performing operations and visualizing statistical distributions.
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies for visualizing distributions (to be released in upcoming versions) requires matplotlib (>= 2.1.1)  and  seaborn (>= 0.9.0) packages.
+Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies for visualizing various statistical distributions (to be released in upcoming versions) requires matplotlib (>= 2.1.1)  and  seaborn (>= 0.9.0) packages.
 
 # User Installation and Source Code
 The latest stable release of elxsi can be installed from Pypi, using the code:
