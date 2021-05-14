@@ -50,7 +50,7 @@ View statistics for elxsi via [Libraries.io](https://libraries.io/pypi/elxsi), o
 ### Submitting a Pull Request
 Before opening a Pull Request, it is recommended to have a look at the full contributing page to make sure your code complies with our pull request guidelines. Please ensure that your PR satisfies the checklist before submitting.
 
-Pull requests are reviewed by the team on a rolling basis. If we are slow to review, either the pull request needs some benchmarking, tinkering, convincing, etc. or more likely the reviewers are busy. We ask for your understanding during the review process.
+Pull requests are reviewed by the team on a rolling basis. If we are slow to review, either the pull request needs some benchmarking, tinkering, convincing, etc. We ask for your understanding during the review process.
 
 # License and Project Status
-The package and other resources are distributed under GNU General Public License v3.0. The package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.3, available to be installed for general use through pip install from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers.
+The package and other resources are distributed under GNU General Public License v3.0. The package is compatible with all operating systems. The latest released stable version of elxsi is v1.0.3, available to be installed on any local system for general use through pip install from [Pypi](https://pypi.org/project/elxsi/) (and other indexes) using requirement specifiers. Checkout pip documentation v21.1.1 [here](https://pip.pypa.io/en/stable/)
