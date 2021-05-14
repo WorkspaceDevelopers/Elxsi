@@ -15,7 +15,7 @@ The files and folders used in the package are as follows:
 - [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): This folder contains the source code for performing operations and visualizing statistical distributions.
 
 **Note:**
-Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies for visualizing various different types of statistical distributions (to be released in upcoming versions) requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
 
 # User Installation and Source Code
 The latest stable release of elxsi can be installed from Pypi, using the code:
