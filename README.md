@@ -22,10 +22,10 @@ The latest stable release of elxsi can be installed from Pypi, using the code:
 ```
 pip install elxsi
 ```
-Once the package is succesfully installed, various statistical distribution instances can be imported by specifying their name with the first letter of each word in UpperCase.
+Once the package is succesfully installed, a wide array of different statistical distributions can be imported from the package by specifying their name with the first letter of each word in uppercase.
 
 ### Package Development
-Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit bugs that you encounter to the issue tracker with a reproducible example demonstrating the problem, as per the issue template in /.github
+Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit bugs that you encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github
 
 # Contribution
 New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first to discuss what you would like to change.
