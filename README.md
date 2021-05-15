@@ -12,7 +12,7 @@ The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj
 The files and folders used in the package are as follows:
 - [dist](https://github.com/WorkspaceDevelopers/elxsi/tree/main/dist): Contains the source distribution for the package that needs to be uploaded to Pypi.
 - [elxsi.egg-info](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi.egg-info): Contains the package's metadata including PKG-INGFO and the sources.
-- [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): Contains source code for performing operations and visualizing statistical distributions.
+- [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): Contains the code for performing operations and visualizing statistical distributions.
 
 **Note:**
 Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
@@ -26,7 +26,17 @@ Once the package is succesfully installed, a wide array of different statistical
 
 ### Package Development
 Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github folder.
-
+    
+    ├── LICENSE                   // GNU General Public License v3.0
+    ├── pyproject.toml
+    ├── README.md
+    ├── setup.cfg
+    ├── setup.py                  // Packaged & distributed with disutils
+    ├── elxsi/
+    │   ├── distributions         // Code for statistical distributions
+    │   └── __init__.py
+    └── tests/                    // Files for performing various unit tests
+    
 # Contribution
 New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first (in line with the issue template) to discuss what you would like to change. Learn more about elxsi [here](https://pypi.org/project/elxsi/)
 
