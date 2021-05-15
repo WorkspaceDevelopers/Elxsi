@@ -1,19 +1,19 @@
 include *.md
-recursive-include doc *
 recursive-include dist *
+recursive-include doc *
 recursive-include elxsi *
 include LICENSE
-include README.md
-include pyproject.toml
-include Makefile
 include MANIFEST.in
+include README.md
+include Makefile
+include pyproject.toml
 include setup.py
 include setup.cfg
 
 # exclude from sdist
+recursive-exclude .github *
 recursive-exclude application *
 recursive-exclude elxsi.egg-info *
-recursive-exclude .github *
 exclude .gitignore
 exclude .mailmap
 exclude .pre-commit-config.yaml
