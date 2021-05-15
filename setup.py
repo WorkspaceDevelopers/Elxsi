@@ -4,6 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(name='elxsi',
+      #Currently deployed stable version: v1.0.3
       version='1.0.3',
       description='Python package for advanced mathematical operations, distributions and visualizations',
       long_description=long_description,
