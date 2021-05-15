@@ -8,15 +8,29 @@ The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj
 - Python (>= 3.9.0)
 - NumPy (>=1.20.3)
 
+**Note:**
+Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
+
 ### Files and Folders
 The files and folders used in the package are as follows:
 - [dist](https://github.com/WorkspaceDevelopers/elxsi/tree/main/dist): Contains the source distribution for the package that needs to be uploaded to Pypi.
 - [elxsi.egg-info](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi.egg-info): Contains the package's metadata including PKG-INGFO and the sources.
 - [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): Contains the code for performing operations and visualizing statistical distributions.
 
-**Note:**
-Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
-
+### Build Commands
+To easy_ install the package, run the following command, to create an egg file:
+```
+python setup.py bdist_egg
+```
+To create the raw source distribution file run the following command:
+```
+python setup.py sdist bdist_wheel
+```
+Running this file creates the subdirectories: dist and elxsi.egg-info. An executable installer can also be created for installing the package in an MS Windows environment. 
+To create an executable installer for MS Windows, run the command:
+```
+python setup.py bdist_wininst
+```
 # User Installation and Source Code
 The latest stable release of elxsi can be installed from Pypi, using the code:
 ```
