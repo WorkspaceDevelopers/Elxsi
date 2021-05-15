@@ -1,5 +1,6 @@
 from setuptools import setup
 
+#Read the content from README.md file for project description
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
