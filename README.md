@@ -10,9 +10,9 @@ The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj
 
 ### Files and Folders
 The files and folders used in the package are as follows:
-- [dist](https://github.com/WorkspaceDevelopers/elxsi/tree/main/dist): This subdirectory contains the source distribution for the package that needs to be uploaded to Pypi.
-- [elxsi.egg-info](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi.egg-info): This subdirectory contains the package's metadata including PKG-INGFO and the sources.
-- [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): This folder contains the source code for performing operations and visualizing statistical distributions.
+- [dist](https://github.com/WorkspaceDevelopers/elxsi/tree/main/dist): Contains the source distribution for the package that needs to be uploaded to Pypi.
+- [elxsi.egg-info](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi.egg-info): Contains the package's metadata including PKG-INGFO and the sources.
+- [elxsi](https://github.com/WorkspaceDevelopers/elxsi/tree/main/elxsi): Contains the source code for performing operations and visualizing statistical distributions.
 
 **Note:**
 Elxsi runs on all operating systems, is quick to install and is available for free use. No version of elxsi support Python 2.7 and Python 3.4. Elxsi plotting capabiliies requires matplotlib (>= 2.1.1) and seaborn (>= 0.9.0) packages.
