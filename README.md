@@ -52,7 +52,7 @@ Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers
     └── tests/                    // Files for performing various unit tests
     
 # Contribution
-New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first (in line with the issue template) to discuss what you would like to change. Learn more about elxsi [here](https://pypi.org/project/elxsi/)
+New contributors of all experience levels are welcomed to contribute to this project. Some basic information about the project has been included in this README. For major changes, it is recommended that you open an issue first (in line with the issue template) to discuss what you would like to change. Learn more about how to use elxsi [here](https://pypi.org/project/elxsi/)
 
 ### Clone the repository
 To contribute to this project, clone the repository using the below mentioned code:
