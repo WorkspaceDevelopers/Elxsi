@@ -38,6 +38,8 @@ pip install elxsi
 ```
 Once the package is succesfully installed, a wide array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by ',') with first letter of each word typed in uppercase.
 
+![pip install elxsi](https://github.com/ashwinraj-in/elxsi/blob/main/doc/gifs/elxsiREADMEgif.gif)
+
 ### Package Development
 Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github folder.
     
