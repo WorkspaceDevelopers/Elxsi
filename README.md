@@ -47,6 +47,10 @@ Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers
     ├── pyproject.toml
     ├── README.md                 // Contains base level documentation
     ├── setup.cfg
+    ├── doc                       // Contains visual graphics (Images/Videos)
+    │   └── images/Video/gif 
+    ├── example                   // Contains user guide for working with elxsi
+    │   └── notebook
     ├── setup.py                  // Packaged & distributed with disutils
     ├── elxsi/
     │   ├── distributions         // Code for statistical distributions
