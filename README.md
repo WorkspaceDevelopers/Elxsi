@@ -1,7 +1,7 @@
 # Elxsi - Python Package
 Elxsi is a python package for performing advanced mathematical operations, distributions and visualizations and is licensed under the GNU General Public License v3.0. It includes modules for calculating mean, standard deviation and probability distribution function of various statistical distributions. The latest released stable version of elxsi is 1.0.4.
 
-The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers from workspace. Learn more about elxsi [here](https://pypi.org/project/elxsi/)
+The project was started in 2021 by [Ashwin Raj](https://www.github.com/ashwinraj-in) as an academic project. The resources for the package and the pull requests are maintained and reviewed by a team of volunteers from workspace. Learn more about elxsi v1.0.4 [here](https://pypi.org/project/elxsi/)
 
 # Subdirectories and Constraints
 ### Dependencies
@@ -38,6 +38,8 @@ pip install elxsi
 ```
 Once the package is succesfully installed, a wide array of different statistical distributions can be imported from the package by specifying the name of the distribution (seprated by ',') with first letter of each word typed in uppercase.
 
+![pip install elxsi](https://github.com/ashwinraj-in/elxsi/blob/main/doc/gifs/elxsiREADMEgif.gif)
+
 ### Package Development
 Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers/elxsi). Please submit any bugs that you may encounter to the issue tracker with a reproducible example demonstrating the problem, in accordance with the issue template present in /.github folder.
     
@@ -45,6 +47,10 @@ Elxsi development takes place on [GitHub](https://github.com/WorkspaceDevelopers
     ├── pyproject.toml
     ├── README.md                 // Contains base level documentation
     ├── setup.cfg
+    ├── doc                       // Contains visual graphics (Images/Videos)
+    │   └── images/Video/gif 
+    ├── example                   // Contains user guide for working with elxsi
+    │   └── notebook
     ├── setup.py                  // Packaged & distributed with disutils
     ├── elxsi/
     │   ├── distributions         // Code for statistical distributions
