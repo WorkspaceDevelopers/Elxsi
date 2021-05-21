@@ -32,6 +32,8 @@ from .reciprocalDistribution import Reciprocal
 from .tDistribution import T
 from .trapezoidalDistribution import Trapezoidal
 
+from .weibullDistribution import Weibull
+
 from .uniformDistribution import Uniform
 
 from .yuleSimonDistribution import YuleSimon
